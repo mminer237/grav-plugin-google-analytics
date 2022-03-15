@@ -1,3 +1,10 @@
+# v1.2.0
+##  03/15/2021
+
+1. [](#bugfix)
+    * Fix inserting code a second time in header
+    * Check if options are empty correctly
+
 # v1.1.0
 ##  08/05/2019
 
